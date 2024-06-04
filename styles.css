@@ -1,0 +1,46 @@
+body,
+title {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.links,
+.title {
+    text-align: center;
+    margin-top: 5px;
+    padding-left: 5px;
+}
+
+.links,
+.text {
+    font-size: 24px;
+}
+
+.center-img-cheese-bread,
+.center-img-flan,
+.center-odin-logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+    background-color: #e5e5f7;
+    opacity: 1;
+    background-image:  radial-gradient(#4563f7 0.9500000000000001px, transparent 0.9500000000000001px), radial-gradient(#4563f7 0.9500000000000001px, #e5e5f7 0.9500000000000001px);
+    background-size: 38px 38px;
+    background-position: 0 0,19px 19px;
+}
+
+.title {
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 48px;
+    background-color: #4563f7;
+    margin-bottom: 5px;
+    background-image: linear-gradient(#444cf7, #000000);
+}
+
+.text {
+    font-weight: 600;
+}
+
